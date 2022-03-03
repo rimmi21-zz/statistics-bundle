@@ -1,0 +1,5 @@
+code: statistics
+description: Template for simple Stats dashboards
+components:
+  widgets:
+    - ui/widgets/widgets-dir/stats-widget/stats-descriptor.yaml

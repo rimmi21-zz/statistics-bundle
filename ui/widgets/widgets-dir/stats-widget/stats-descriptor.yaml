@@ -1,0 +1,6 @@
+code: stats-dashboard
+titles:
+  en: Sample Stats Dashboard Template
+  it: Sample Stats Dashboard Template
+group: free
+customUiPath: cards.ftl
